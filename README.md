@@ -26,3 +26,8 @@ imagem:
 
 link:
 [link para o instituto federal catarinense]( https://ifc.edu.br/)
+
+tabela :
+Numero|nome|nota
+--|--|--
+1|mateus|9,0 
